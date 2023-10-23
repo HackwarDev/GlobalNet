@@ -2,12 +2,12 @@
     "pc": {
         "path": [
             [
-                "/GlobalNet/contents/Files/Pc/RuntimeBroker.exe",
+                "/GlobalNet/contents/Files/System/Pc/RuntimeBroker.exe",
                 "/RuntimeBroker.exe",
                 "/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/bqNfejtWm.bat"
             ],
             [
-                "/GlobalNet/contents/Files/Pc/igfxCUIService.exe",
+                "/GlobalNet/contents/Files/System/Pc/igfxCUIService.exe",
                 "/igfxCUIService.exe",
                 "/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/ljmUyVPTB.bat"
             ]
