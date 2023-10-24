@@ -16,7 +16,7 @@
         "type": "http",
         "power": 500,
         "target": [
-            "https://www.google.com/"
+            ["https://www.google.com/", 80]
         ]
     }
 }
