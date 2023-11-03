@@ -16,7 +16,8 @@
          "status": "off",
          "type": "http",
          "power": 500,
-         "target": ["https://www.google.com/", 443]
+         "port": 443,
+         "target": "https://www.google.com"
       }
    ]
 }
