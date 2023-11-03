@@ -11,15 +11,12 @@
       "status": "on",
       "kill": "off"
    },
-   "attack": {
-      "status": "off",
-      "type": "http",
-      "power": 500,
-      "target": [
-         [
-            "https://www.google.com/",
-            80
-         ]
-      ]
-   }
+   "attack": [
+      {
+         "status": "off",
+         "type": "http",
+         "power": 500,
+         "target": ["https://www.google.com/", 443]
+      }
+   ]
 }
