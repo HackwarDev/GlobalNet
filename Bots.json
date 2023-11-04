@@ -2,10 +2,10 @@
    "bots": [
       {
          "name": "DESKTOP-7BDDG7T;C:/Users/wwwgo",
-         "device": "PC",
+         "device": "pc",
          "online": {
             "date": "04/11/2023",
-            "time": "11:15",
+            "time": "11:17",
             "token": null
          }
       }
