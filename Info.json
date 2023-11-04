@@ -8,16 +8,9 @@
          "pc": "1.0",
          "phone": "1.0"
       },
-      "power": 100,
+      "power": 500,
       "status": "on",
       "kill": "off"
    },
-   "attack": [
-      {
-         "status": "off",
-         "type": "tcp",
-         "port": "80",
-         "target": "1.1.1.1"
-      }
-   ]
+   "attack": []
 }
