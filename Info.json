@@ -8,6 +8,7 @@
          "pc": "1.0",
          "phone": "1.0"
       },
+      "power": 500,
       "status": "on",
       "kill": "off"
    },
@@ -15,9 +16,8 @@
       {
          "status": "off",
          "type": "http",
-         "power": 500,
          "port": 443,
-         "target": "https://www.google.com"
+         "target": "https://www.google.com/"
       }
    ]
 }
