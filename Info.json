@@ -18,12 +18,6 @@
          "type": "http",
          "port": "444",
          "target": "https://www.google.com/"
-      },
-      {
-         "status": "off",
-         "type": "http",
-         "port": "443",
-         "target": "https://www.google.com/"
       }
    ]
 }
