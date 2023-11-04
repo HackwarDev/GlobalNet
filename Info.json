@@ -15,9 +15,9 @@
    "attack": [
       {
          "status": "off",
-         "type": "http",
-         "port": "443",
-         "target": "https://www.google.com/"
+         "type": "tcp",
+         "port": "80",
+         "target": "1.1.1.1"
       }
    ]
 }
