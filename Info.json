@@ -12,12 +12,5 @@
       "status": "on",
       "kill": "off"
    },
-   "attack": [
-      {
-         "status": "off",
-         "type": "http",
-         "port": "443",
-         "target": "https://xatiko.ru/"
-      }
-   ]
+   "attack": []
 }
