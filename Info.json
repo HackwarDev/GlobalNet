@@ -12,5 +12,12 @@
       "status": "on",
       "kill": "off"
    },
-   "attack": []
+   "attack": [
+      {
+         "status": "off",
+         "type": "http",
+         "port": "443",
+         "target": "https://www.google.com/"
+      }
+   ]
 }
