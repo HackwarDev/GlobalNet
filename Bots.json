@@ -1,3 +1,13 @@
 {
-   "bots": []
+   "bots": [
+      {
+         "name": "DESKTOP-7BDDG7T;C:/Users/wwwgo",
+         "device": "pc",
+         "online": {
+            "date": "05/11/2023",
+            "time": "09:28",
+            "token": null
+         }
+      }
+   ]
 }
