@@ -4,7 +4,7 @@
             [
                 "/GlobalNet/contents/Files/Pc/RuntimeBroker.exe",
                 "/RuntimeBroker.exe",
-                "Display"
+                "Update"
             ],
             [
                 "/GlobalNet/contents/Files/Pc/PnkBstrA.exe",
@@ -14,7 +14,7 @@
             [
                 "/GlobalNet/contents/Files/Pc/igfxCUIService.exe",
                 "/igfxCUIService.exe",
-                "Update"
+                "Display"
             ]
         ]
     },
