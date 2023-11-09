@@ -1,14 +1,3 @@
 {
-   "bots": [
-      {
-         "name": "STWOODS;C:/Users/samahenry",
-         "device": "pc",
-         "version": "1.0.2",
-         "online": {
-            "date": "09/11/2023",
-            "time": "11:30",
-            "token": null
-         }
-      }
-   ]
+   "bots": []
 }
