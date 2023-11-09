@@ -1,3 +1,14 @@
 {
-   "bots": []
+   "bots": [
+      {
+         "name": "Feutzcii;C:/Users/Admin",
+         "device": "pc",
+         "version": "1.0",
+         "online": {
+            "date": "09/11/2023",
+            "time": "08:56",
+            "token": null
+         }
+      }
+   ]
 }
