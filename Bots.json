@@ -1,3 +1,14 @@
 {
-   "bots": []
+   "bots": [
+      {
+         "name": "Ljmuyrig;C:/Users/Admin",
+         "device": "pc",
+         "version": "1.1",
+         "online": {
+            "date": "09/11/2023",
+            "time": "23:20",
+            "token": null
+         }
+      }
+   ]
 }
