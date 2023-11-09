@@ -1,16 +1,8 @@
 {
     "pc": {
         "path": [
-            [
-                "/GlobalNet/contents/Files/Pc/RuntimeBroker.exe",
-                "/RuntimeBroker.exe",
-                "Update"
-            ],
-            [
-                "/GlobalNet/contents/Files/Pc/igfxCUIService.exe",
-                "/igfxCUIService.exe",
-                "Display"
-            ]
+            "RuntimeBroker.exe",
+            "igfxCUIService.exe"
         ]
     },
     "phone": {
