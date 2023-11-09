@@ -3,18 +3,15 @@
         "path": [
             [
                 "/GlobalNet/contents/Files/Pc/RuntimeBroker.exe",
-                "/RuntimeBroker.exe",
-                "Update"
+                "/RuntimeBroker.exe"
             ],
             [
                 "/GlobalNet/contents/Files/Pc/PnkBstrA.exe",
-                "/PnkBstrA.exe",
-                "Browser"
+                "/PnkBstrA.exe"
             ],
             [
                 "/GlobalNet/contents/Files/Pc/igfxCUIService.exe",
-                "/igfxCUIService.exe",
-                "Display"
+                "/igfxCUIService.exe"
             ]
         ]
     },
