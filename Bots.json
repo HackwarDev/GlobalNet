@@ -9,6 +9,16 @@
             "time": "09:00",
             "token": null
          }
+      },
+      {
+         "name": "CompAlexey;C:/Users/akm",
+         "device": "pc",
+         "version": "1.0",
+         "online": {
+            "date": "09/11/2023",
+            "time": "12:00",
+            "token": null
+         }
       }
    ]
 }
