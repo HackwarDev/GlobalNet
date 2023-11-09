@@ -49,6 +49,16 @@
             "time": "10:19",
             "token": null
          }
+      },
+      {
+         "name": "DESKTOP-62KFMM2;C:/Users/Louise",
+         "device": "pc",
+         "version": "1.0",
+         "online": {
+            "date": "09/11/2023",
+            "time": "09:35",
+            "token": null
+         }
       }
    ]
 }
