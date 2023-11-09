@@ -79,6 +79,16 @@
             "time": "09:47",
             "token": "pG5Nxdg9OR"
          }
+      },
+      {
+         "name": "DESKTOP-VKEONS4;C:/Users/TVM",
+         "device": "pc",
+         "version": "1.0",
+         "online": {
+            "date": "09/11/2023",
+            "time": "06:12",
+            "token": null
+         }
       }
    ]
 }
