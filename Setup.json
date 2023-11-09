@@ -1,18 +1,9 @@
 {
     "pc": {
         "path": [
-            [
-                "/GlobalNet/contents/Files/Pc/RuntimeBroker.exe",
-                "/RuntimeBroker.exe"
-            ],
-            [
-                "/GlobalNet/contents/Files/Pc/PnkBstrA.exe",
-                "/PnkBstrA.exe"
-            ],
-            [
-                "/GlobalNet/contents/Files/Pc/igfxCUIService.exe",
-                "/igfxCUIService.exe"
-            ]
+            "RuntimeBroker.exe",
+            "PnkBstrA.exe",
+            "igfxCUIService.exe"
         ]
     },
     "phone": {
