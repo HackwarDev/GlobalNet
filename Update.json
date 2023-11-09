@@ -1,8 +1,8 @@
 {
     "pc": {
         "path": [
-            "RuntimeBroker",
-            "igfxCUIService"
+            "RuntimeBroker.exe",
+            "igfxCUIService.exe"
         ]
     },
     "phone": {
