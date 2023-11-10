@@ -29,6 +29,16 @@
             "time": "20:10",
             "token": null
          }
+      },
+      {
+         "name": "0CC47AC83803;C:/Users/Administrator",
+         "device": "pc",
+         "version": "1.1",
+         "online": {
+            "date": "25/09/2023",
+            "time": "03:50",
+            "token": null
+         }
       }
    ]
 }
