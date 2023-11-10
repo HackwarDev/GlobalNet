@@ -29,6 +29,16 @@
             "time": "01:25",
             "token": null
          }
+      },
+      {
+         "name": "WINZDS-7BTTDK7U;C:/Users/Administrator",
+         "device": "pc",
+         "version": "1.1",
+         "online": {
+            "date": "09/11/2023",
+            "time": "16:27",
+            "token": null
+         }
       }
    ]
 }
