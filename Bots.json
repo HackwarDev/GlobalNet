@@ -49,6 +49,16 @@
             "time": "06:14",
             "token": null
          }
+      },
+      {
+         "name": "DESKTOP-D019GDM;C:/Users/Frank",
+         "device": "pc",
+         "version": "1.1",
+         "online": {
+            "date": "10/11/2023",
+            "time": "01:55",
+            "token": null
+         }
       }
    ]
 }
