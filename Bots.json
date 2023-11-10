@@ -59,6 +59,16 @@
             "time": "01:55",
             "token": null
          }
+      },
+      {
+         "name": "AMAZING-AVOCADO;C:/Users/Harry Johnson",
+         "device": "pc",
+         "version": "1.1",
+         "online": {
+            "date": "10/11/2023",
+            "time": "02:01",
+            "token": null
+         }
       }
    ]
 }
