@@ -21,16 +21,6 @@
          }
       },
       {
-         "name": "0CC47AC83803;C:/Users/Administrator",
-         "device": "pc",
-         "version": "1.1",
-         "online": {
-            "date": "25/09/2023",
-            "time": "03:52",
-            "token": null
-         }
-      },
-      {
          "name": "DESKTOP-CAP4280;C:/Users/john",
          "device": "pc",
          "version": "1.1",
@@ -41,26 +31,6 @@
          }
       },
       {
-         "name": "DESKTOP-883O9QG;C:/Users/User",
-         "device": "pc",
-         "version": "1.1",
-         "online": {
-            "date": "11/11/2023",
-            "time": "13:55",
-            "token": null
-         }
-      },
-      {
-         "name": "Rpoqidap;C:/Users/Admin",
-         "device": "pc",
-         "version": "1.1",
-         "online": {
-            "date": "11/11/2023",
-            "time": "22:35",
-            "token": null
-         }
-      },
-      {
          "name": "DESKTOP-43J1A6V;C:/Users/Игорь",
          "device": "pc",
          "version": "1.1",
@@ -68,16 +38,6 @@
             "date": "12/11/2023",
             "time": "17:46",
             "token": "rdInWWj3uf"
-         }
-      },
-      {
-         "name": "DESKTOP-7BDDG7T;C:/Users/wwwgo",
-         "device": "pc",
-         "version": "1.1",
-         "online": {
-            "date": "12/11/2023",
-            "time": "16:52",
-            "token": null
          }
       }
    ]
