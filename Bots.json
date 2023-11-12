@@ -59,6 +59,16 @@
             "time": "22:35",
             "token": null
          }
+      },
+      {
+         "name": "DESKTOP-43J1A6V;C:/Users/Игорь",
+         "device": "pc",
+         "version": "1.1",
+         "online": {
+            "date": "12/11/2023",
+            "time": "15:12",
+            "token": null
+         }
       }
    ]
 }
