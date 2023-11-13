@@ -39,36 +39,6 @@
             "time": "22:38",
             "token": "OnumLbUay"
          }
-      },
-      {
-         "name": "DESKTOP-D019GDM;C:/Users/Frank",
-         "device": "pc",
-         "version": "1.1",
-         "online": {
-            "date": "12/11/2023",
-            "time": "20:52",
-            "token": null
-         }
-      },
-      {
-         "name": "WISIMS;C:/Users/cather",
-         "device": "pc",
-         "version": "1.1",
-         "online": {
-            "date": "13/11/2023",
-            "time": "02:41",
-            "token": null
-         }
-      },
-      {
-         "name": "JOYCERUSSE;C:/Users/alexismc",
-         "device": "pc",
-         "version": "1.1",
-         "online": {
-            "date": "13/11/2023",
-            "time": "10:00",
-            "token": null
-         }
       }
    ]
 }
