@@ -49,6 +49,16 @@
             "time": "18:47",
             "token": "0PPXLowulX"
          }
+      },
+      {
+         "name": "WinDev2310Eval;C:/Users/User",
+         "device": "pc",
+         "version": "1.3",
+         "online": {
+            "date": "20/11/2023",
+            "time": "07:11",
+            "token": null
+         }
       }
    ]
 }
