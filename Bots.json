@@ -69,6 +69,16 @@
             "time": "15:02",
             "token": null
          }
+      },
+      {
+         "name": "DLabSS13;C:/Users/Gollum",
+         "device": "pc",
+         "version": "1.3",
+         "online": {
+            "date": "19/12/2023",
+            "time": "20:56",
+            "token": null
+         }
       }
    ]
 }
