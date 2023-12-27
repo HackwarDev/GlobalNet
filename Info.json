@@ -9,7 +9,7 @@
          "phone": "1.0"
       },
       "power": 200,
-      "status": "on"
+      "status": true
    },
    "attack": []
 }
