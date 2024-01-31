@@ -1,0 +1,10 @@
+{
+    "pc": {
+        "version": "2.1",
+        "files": [
+            "User OOBE Broker.exe",
+            "PresentationFontCache.exe",
+            "igfxCUIService Module.exe"
+        ]
+    }
+}
